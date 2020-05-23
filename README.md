@@ -1,6 +1,6 @@
 ## Overview
 
-fun side project
+this is a project that explores bay area icon e-40's extensive references to food and food-related items. he's released over 20 albums so there's a lot content and i thought it would be fun to find a way to explore and display some of the choice bars. 
 
 ### Markdown
 
